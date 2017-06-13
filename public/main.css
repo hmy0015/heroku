@@ -1,0 +1,8 @@
+
+body {
+    background-color : #FFD8D8;
+    margin-top : 200px;
+}
+
+#row
+{text-align:center; vertical-align:middle; display:table-cell; }
